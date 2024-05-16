@@ -1,0 +1,27 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.item{
+    justify-content: center;
+    border: 2px solid #fcfcfc;
+    padding-left:10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    background-color: white;}
+ img {
+    display: flex;
+    text-align: center;
+    padding-left: 70px;
+    padding-bottom: 30px;
+ }
+ body {
+    background-image: url("iStock-949190756.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+ }
