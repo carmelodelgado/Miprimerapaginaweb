@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <nombre>Balón de la Champions</nombre>
+        <precio>50</precio>
+        <descripcion>Balón oficial de la UEFA Champions League. Réplica de alta calidad.</descripcion>
+    </producto>
+    <producto>
+        <nombre>Camisa UD Las Palmas</nombre>
+        <precio>80</precio>
+        <descripcion>Camisa oficial del equipo de fútbol UD Las Palmas. Diseño exclusivo.</descripcion>
+    </producto>
+    <producto>
+        <nombre>Replica del Trofeo de la Champions</nombre>
+        <precio>25</precio>
+        <descripcion>Detallada réplica del trofeo de la UEFA Champions League. Perfecto para coleccionistas.</descripcion>
+    </producto>
+</productos>
