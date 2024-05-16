@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cosas>
+    <cosa>
+        <titulo>A por la 15</titulo>
+        <descripcion>Gracias a un doblete de Joselu en los últimos minutos, el Real Madrid elimina al Bayern 2-1 en el partido y 3-2 en el global.</descripcion>
+    </cosa>
+    <cosa>
+        <titulo>El césped está alto</titulo>
+        <descripcion>Xavi, entrenador del FC Barcelona, se queja de la altura del césped en el estadio rival, alegando que afecta al estilo de juego de su equipo.</descripcion>
+    </cosa>
+    <cosa>
+        <titulo>Vini Balón de Oro</titulo>
+        <descripcion>Vinicius Jr. es considerado como uno de los favoritos para ganar el Balón de Oro tras su excepcional desempeño esta temporada, liderando al Real Madrid en múltiples competiciones.</descripcion>
+    </cosa>
+</cosas>
