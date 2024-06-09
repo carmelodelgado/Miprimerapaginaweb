@@ -9,5 +9,10 @@
                 <link>https://carmelodelgado.github.io/Miprimerapaginaweb/NOTICIAS.html</link>
                 <description>noticias sobre deportes</description>
             </item>
+            <item>
+                <title>ofertas</title>
+                <link>https://carmelodelgado.github.io/Miprimerapaginaweb/ofertas.html</link>
+                <description>ofertas artículos de deportes</description>
+            </item>
         </channel>
     </rss>
