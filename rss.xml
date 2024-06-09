@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <rss version ="2.0">
+        <channel>
+            <title>Mi canal rss</title>
+            <link>https://carmelodelgado.github.io/Miprimerapaginaweb/</link>
+            <description>noticias de actualidad</description>
+            <item>
+                <title>noticias</title>
+                <link>https://carmelodelgado.github.io/Miprimerapaginaweb/NOTICIAS.html</link>
+                <description>noticias sobre deportes</description>
+            </item>
+        </channel>
+    </rss>
